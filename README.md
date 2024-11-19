@@ -1,5 +1,4 @@
-# HealthVault
-# EHR Application - Gestion sécurisée des dossiers médicaux électroniques
+# HealthVault - EHR Application - Gestion sécurisée des dossiers médicaux électroniques
 
 # Description du projet
 
