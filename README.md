@@ -10,7 +10,7 @@ Grâce à une architecture CI/CD robuste, le projet garantit des livraisons rapi
 - Gestion des dossiers médicaux électroniques : Une interface intuitive pour accéder, mettre à jour et gérer les dossiers patients.
 - Sécurité et authentification : Système d'authentification basé sur JWT (JSON Web Tokens) pour protéger les données sensibles.
 - Scalabilité et portabilité : Application containerisée pour assurer un déploiement cohérent dans différents environnements.
-- 
+  
 # Technologies utilisées
 
 - Front-end : Développé avec Angular.
